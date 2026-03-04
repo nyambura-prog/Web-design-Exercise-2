@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile</title>
+</head>
+<body style="background-color:white; font-family: Arial; padding: 30px;">
+
+    <h1 style="color: darkblue; text-align: center; text-decoration: underline;">
+        My Profile
+    </h1>
+
+    <p style="font-size: 22px; color:red; line-height: 1.6; border: 2px solid black; padding: 15px; background-color: white;">
+        My name is Bebbs Githu and I am a student at KCA University pursuing a Diploma in Information Technology.
+        I am passionate about learning web development and computer programming. 
+        My goal is to become a skilled IT professional who can design websites and develop useful software
+        to solve real-life problems in society. I enjoy exploring new technologies and improving my skills
+        every day through practice and study.
+    </p>
+
+    <button style="color: white; background-color: green; font-size: 18px; padding: 10px 20px; border-radius: 8px; border: none;">
+        Contact Me
+    </button>
+
+</body>
+</html>
